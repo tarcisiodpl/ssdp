@@ -6,7 +6,7 @@ Tarcísio Lucas, Túlio C.P.B. Silva, Renato Vimieiro, Teresa B. Ludermir, A new
 
 Description folders:
 
-#SSDP:
+# SSDP
 Java implementation of SSDP.
 Class Main is a self explanatory way how to run the algorithm:
 
