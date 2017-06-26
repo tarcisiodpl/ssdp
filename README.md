@@ -51,7 +51,7 @@ Class Main is a self explanatory way how to run the algorithm:
         System.out.println("\n### Top-k DPs:");
         Avaliador.imprimirRegras(p, k);
 
-#experiments:
+# experiments:
 Experiments results:
 
 Confrontation between the 8 SSDP versions tested on 121 high-dimensional bases: BIO-126-8SSDP-Qg-Tabelao.csvs
@@ -60,5 +60,5 @@ Confrontation between SSDP, SD, Trivial and Random search 121 high-dimensional b
 
 Confrontation between SSDP and evolutionary approach on 20 traditional bases: UCI-20-SSDPxNMEEFxMESDIFxSDIGA-Tabelao.csv
 
-#data:
+# data:
 10 microarray databases following the format accepted by the Java implementation. Basically they are .csv files where the label is in the last column.
