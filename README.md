@@ -1,6 +1,10 @@
 # Introduction
 SSDP is an evolutionary algorithm for Discriminative Pattern (DP) mining that focuses on high dimensional data sets.
 
+# New version of SSDP (SSDP+):
+https://github.com/tarcisiodpl/ssdp_plus
+https://ieeexplore.ieee.org/document/8477855
+
 # Reference: 
 Tarcísio Lucas, Túlio C.P.B. Silva, Renato Vimieiro, Teresa B. Ludermir, A new evolutionary algorithm for mining top-k discriminative patterns in high dimensional data, Applied Soft Computing, Volume 59, October 2017, Pages 487-499, ISSN 1568-4946, https://doi.org/10.1016/j.asoc.2017.05.048.
 
